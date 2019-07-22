@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 38a90e7db3bf92148898bb2c2515912d
+  - enabled: 1
+    path: Assets/Scenes/OverWorld.unity
+    guid: 78c5dbe4f0f04bb4288f8ce3b9b0aca7
+  - enabled: 1
+    path: Assets/Scenes/CarriedOverSceneObjects.unity
+    guid: 7776e1f4861ed024595adb878ea72ec7
+  m_configObjects: {}
